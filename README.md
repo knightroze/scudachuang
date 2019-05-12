@@ -1,0 +1,6 @@
+#scudachuangfinalshow
+本项目为四川大学的一个大创项目的展示
+
+#参考的其它开源项目
+文本分类使用了fasttext
+分词最终采用的jieba分词，但有参考清华大学自然语言处理实验室的THULAC

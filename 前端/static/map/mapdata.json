@@ -1,0 +1,8 @@
+[
+{
+"city":"BEJ",
+"low":9,
+"mid":10,
+"high":8
+},
+{"city":"TAJ","low":1,"mid":1,"high":2},{"city":"SHH","low":8,"mid":18,"high":8},{"city":"CHQ","low":2,"mid":4,"high":1},{"city":"HEB","low":0,"mid":0,"high":0},{"city":"SHX","low":1,"mid":0,"high":0},{"city":"LIA","low":0,"mid":0,"high":0},{"city":"JIL","low":0,"mid":1,"high":1},{"city":"HLJ","low":0,"mid":0,"high":0},{"city":"JSU","low":0,"mid":2,"high":0},{"city":"ZHJ","low":2,"mid":2,"high":1},{"city":"ANH","low":0,"mid":1,"high":0},{"city":"FUJ","low":1,"mid":1,"high":2},{"city":"JXI","low":1,"mid":7,"high":1},{"city":"SHD","low":0,"mid":0,"high":1},{"city":"HEN","low":2,"mid":0,"high":1},{"city":"HUB","low":0,"mid":0,"high":0},{"city":"HUN","low":0,"mid":2,"high":0},{"city":"GUD","low":2,"mid":2,"high":2},{"city":"HAI","low":0,"mid":0,"high":1},{"city":"SCH","low":3,"mid":2,"high":2},{"city":"GUI","low":0,"mid":0,"high":0},{"city":"YUN","low":0,"mid":0,"high":0},{"city":"SHA","low":0,"mid":0,"high":0},{"city":"GAN","low":0,"mid":0,"high":0},{"city":"QIH","low":0,"mid":0,"high":0},{"city":"TAI","low":1,"mid":5,"high":3},{"city":"NMG","low":0,"mid":0,"high":0},{"city":"GXI","low":0,"mid":0,"high":0},{"city":"TIB","low":0,"mid":0,"high":0},{"city":"NXA","low":0,"mid":1,"high":0},{"city":"XIN","low":0,"mid":0,"high":0},{"city":"HKG","low":1,"mid":0,"high":0},{"city":"MAC","low":0,"mid":0,"high":1}]
